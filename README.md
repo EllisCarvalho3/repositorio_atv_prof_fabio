@@ -1,5 +1,5 @@
 # repositorio_atv_prof_fabio
-Olá! Este repositório tem o objetivo de armazenar a última atividade proposta pelo professor Fábio Lima, que agora está lecionando em outro Campus. Considero importante destacar que esta, apesar de ter sido uma simples proposta, me impulsionou a descobrir novas ferramentas do front-end.. Portanto, resolvi dar um destaque para essa atividade, pois também recebei um ótimo feedback do professor.
+Olá! Este repositório tem o objetivo de armazenar a última atividade proposta pelo professor Fábio Lima, que agora está lecionando em outro Campus. Considero importante destacar que esta, apesar de ter sido uma simples proposta, me impulsionou a descobrir novas ferramentas do front-end.. Portanto, resolvi dar um destaque para essa atividade, pois também recebi um ótimo feedback do professor.
 
 # Obs.: "Por que preciso de uma ferramenta para rodar PHP?"
 Para entender por que a gente precisa de uma ferramenta pra rodar código PHP, a primeira coisa é saber que o PHP é uma linguagem de servidor. O que isso quer dizer? Que o seu navegador (Chrome, Firefox, etc.) não consegue ler e exibir o código PHP diretamente, do mesmo jeito que ele faz com um HTML, por exemplo.
